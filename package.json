@@ -1,0 +1,4 @@
+"scripts": {
+  "build": "echo Building project... && sleep 1",
+  "test": "node test/test.js"
+}
